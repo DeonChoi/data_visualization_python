@@ -1,0 +1,1 @@
+Practicing data visualization, getting more familiar with NumPy, Matplotlib, etc.
